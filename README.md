@@ -8,15 +8,15 @@
 
 - **Nome:** Anne de Capdeville
 - **Matrícula:** 221031111
-- **Turma:** Turma 01
+- **Turma:** Turma 03
 
 - **Nome:** Pablo Cunha de Jesus
 - **Matrícula:** 222014910
-- **Turma:** 01
+- **Turma:** Turma 03
 
 - **Nome:** Guilherme Costa Zanella
 - **Matrícula:** 222024837
-- **Turma:** 01
+- **Turma:** Turma 03
   
 ## Introdução
 
