@@ -1,0 +1,2 @@
+[console_scripts]
+deadcode-detector = deadcode_detector.main:main

@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "deadcode-detector"
+version = "1.0.0"
+description = "Detector de código morto para Python"
+authors = [
+    {name = "Matheus Rodrigues da Silva", email = "rmatheus440@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "colorama>=0.4.6",
+]
+
+[project.scripts]
+deadcode-detector = "deadcode_detector.main:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"] 

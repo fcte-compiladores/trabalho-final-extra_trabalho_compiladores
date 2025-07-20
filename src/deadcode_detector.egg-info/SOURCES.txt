@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/deadcode_detector/__init__.py
+src/deadcode_detector/analyzer.py
+src/deadcode_detector/lexer.py
+src/deadcode_detector/main.py
+src/deadcode_detector/parser.py
+src/deadcode_detector/reporter.py
+src/deadcode_detector.egg-info/PKG-INFO
+src/deadcode_detector.egg-info/SOURCES.txt
+src/deadcode_detector.egg-info/dependency_links.txt
+src/deadcode_detector.egg-info/entry_points.txt
+src/deadcode_detector.egg-info/requires.txt
+src/deadcode_detector.egg-info/top_level.txt
+tests/test_analyzer.py
