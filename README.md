@@ -9,6 +9,15 @@
 - **Nome:** Anne de Capdeville
 - **Matrícula:** 221031111
 - **Turma:** Turma 01
+
+- **Nome:** Pablo Cunha de Jesus
+- **Matrícula:** 222014910
+- **Turma:** 01
+
+- **Nome:** Guilherme Costa Zanella
+- **Matrícula:** 222024837
+- **Turma:** 01
+  
 ## Introdução
 
 O DeadCodeDetector é um analisador de código morto para Python que implementa técnicas de análise estática para detectar problemas comuns em código fonte. O projeto demonstra a aplicação prática dos conceitos de compiladores, especificamente nas etapas de análise léxica, sintática e semântica.
